@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",(()=>{const t="burger-controll-",e=document.getElementById(`${t}button-open`),d=document.getElementById(`${t}button-close`),n=document.getElementById(`${t}modal`),o=document.getElementById(`${t}modal-backdrop`),s=()=>{e.classList.toggle("hidden"),d.classList.toggle("hidden"),n.classList.toggle("hidden")};e?.addEventListener("touchstart",s),d?.addEventListener("touchstart",s),d?.addEventListener("touchstart",s),o?.addEventListener("touchstart",s)}));
+//# sourceMappingURL=header.eea5aa9d.js.map
